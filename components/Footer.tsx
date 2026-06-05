@@ -9,6 +9,7 @@ export default function Footer() {
   const footerLinks = [
     { name: "Privacy Policy", href: "/privacy-policy" },
     { name: "Terms & Conditions", href: "/terms-and-conditions" },
+    { name: "Data Deletion", href: "/data-deletion" },
   ];
 
   return (

@@ -14,6 +14,7 @@ export default function Header() {
     { name: "Home", href: "/" },
     { name: "Privacy Policy", href: "/privacy-policy" },
     { name: "Terms & Conditions", href: "/terms-and-conditions" },
+    { name: "Data Deletion", href: "/data-deletion" },
   ];
 
   const isActive = (href: string) => {
